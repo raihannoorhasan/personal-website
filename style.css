@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 650px;
+    /* border: 1px solid gray; */
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.top-sec{
+    background-image: url(images/header-bg.png);
+    background-position: left;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4%;
+}
+
+.half-width img{
+    width: 90%;
+}
+
+.first-box{
+    margin: 165px -165px 0px 250px;
+}
+h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.highlight{
+    color:brown
+}
+
+p{
+    color: dimgray;
+    margin-bottom: 30px;
+}
+
+.link-btn{
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 6px;
+}
+
+.second-box{
+    margin-top: 205px;
+    margin-left: -50px;
+}
+
+.second-sec{
+    background-image: url(images/biography-bg.png);
+    padding-bottom: 100px;
+}
+.wrpper{
+    padding: 5%;
+    margin-left: 60px;
+}
+.img-div{
+    width: 30%;
+    float: left;
+    margin-right: 3%;
+
+
+}
+.img-div img{
+    width: 100%;
+}
+.last-work{
+    margin-left: 0;
+}
+
+.work-sec h1{
+    text-align: center;
+}
+
+.work-sec{
+    background-image: url(images/latest-work-bg.png);
+    height: 450px;
+    padding-top: 110px;
+    padding-bottom: 100px;
+}
+
+.review-sec{
+    background-image: url(images/footer-bg.png);
+    background-position: left;
+}
+
+.review-sec h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.review-box{
+    width: 40%;
+    margin: 0 auto;
+    
+}
+
+.review-sec h5{
+    text-align: center;
+    color: dimgray;
+}
+
+.review-sec h4{
+    text-align: center;
+}
+
+.review-sec p{
+    text-align: center;
+    color: black;
+}
+
+.massage-box{
+    width: 40%;
+    margin: 0 auto;
+    background-color: palevioletred;
+    padding: 20px 60px;
+    border-radius: 8px;
+}
+
+.massage-box h3{
+    text-align: center;
+    color: whitesmoke;
+}
+.massage-box p{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+footer p{
+    text-align: center;
+    font-size: 25px;
+    color: dimgray;
+}
